@@ -36,6 +36,9 @@ This project is a browser automation script that performs **web scoping** on the
 ### 1. Clone the repository or extract the zip
 ```bash
 cd webscoping
+py webscoping.py
+```
+
 
 ### 2. Run the python file
 ```bash
