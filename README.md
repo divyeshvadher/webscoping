@@ -1,9 +1,8 @@
-# Amazon Web Scoping Script 🔎
+# Amazon Web Scraping Script 🔎
 
-This project is a browser automation script that performs **web scoping** on the Amazon website. It discovers and classifies **unique internal links** into categories such as product pages, category pages, and others.
+This project is a browser automation script that performs **web scraping** on the Amazon website. It discovers and classifies **unique internal links** into categories such as product pages, category pages, and others.
 
-> 📁 File: `webscoping.py`  
-> 🧠 Submitted for: SaralX Internship Assignment  
+> 📁 File: `webscrping.py`  
 > 🧑‍💻 Author: Divyesh Vadher  
 > 🔗 [GitHub](https://github.com/DivyeshVadher) | [LinkedIn](https://linkedin.com/in/imdivyeshvadher)
 
@@ -35,11 +34,11 @@ This project is a browser automation script that performs **web scoping** on the
 
 ### 1. Clone the repository or extract the zip
 ```bash
-cd webscoping
-py webscoping.py
+cd webscraping
+py webscraping.py
 ```
 
 
 ### 2. Run the python file
 ```bash
-py webscoping.py
+py webscraping.py
