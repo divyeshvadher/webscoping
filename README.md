@@ -2,7 +2,7 @@
 
 This project is a browser automation script that performs **web scraping** on the Amazon website. It discovers and classifies **unique internal links** into categories such as product pages, category pages, and others.
 
-> 📁 File: `webscrping.py`  
+> 📁 File: `webscraping.py`  
 > 🧑‍💻 Author: Divyesh Vadher  
 > 🔗 [GitHub](https://github.com/DivyeshVadher) | [LinkedIn](https://linkedin.com/in/imdivyeshvadher)
 
